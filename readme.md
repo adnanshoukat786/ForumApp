@@ -23,5 +23,5 @@ ForumApp is a web application that built by useing Laravel and angularJS, where 
 - Run the following command: php artisan migrate
 - it will start working at your http://localhost/ForumApp/
 
-## <a href="http://venuesurfer.weijiconsultants.com/vanHackn/">Demo </a>
+## <a target="_black" href="http://venuesurfer.weijiconsultants.com/vanHackn/">Demo </a>
 
